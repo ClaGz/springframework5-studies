@@ -22,7 +22,6 @@ public class DevBootstrap implements ApplicationListener<ContextRefreshedEvent> 
             "kingdom", "ugly", "999999999",
             "999999999", "Carcosa"
     );
-
     private static final Author ELIPHAS = new Author("Eliphas", "Leví");
     private static final Author CAMILA = new Author( "Camila", "Garcia" );
     private static final Book CRIA_DOR = new Book( "CriaDor", "777", PUBLISHER );
